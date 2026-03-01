@@ -1,55 +1,24 @@
-/// =======================
-/// MOVEMENT
-/// =======================
-walk_speed = 4;
-dash_speed = 5;
-hsp = 0;
-
-grav = 0.5;
-vsp = 0;
-jump_speed = -10;
-
-max_jumps = 2;
-jump_count = 0;
-
-/// DOUBLE TAP
-double_tap_time = 15;
-left_tap_timer = 0;
-right_tap_timer = 0;
-left_tapped = false;
-right_tapped = false;
-
-/// DASH
-dash_timer = 0;
-dash_length = 10;
-
-/// =======================
-/// HEALTH + SHIELD
-/// =======================
-max_hp = 100;
-hp = 100;
-
-max_shield = 50;
-shield = 50;
-
-display_hp = hp;
-damage_hp = hp;
-display_shield = shield;
-
-damage_amount = 10;
-invincible_time = 30;
+// Stats
+max_hp = 5.0;
+hp = max_hp;
 invincible_timer = 0;
+invincible_duration = 60;
 
-pulse = 0;
+// Movement
+h_spd = 0;
+v_spd = 0;
+move_speed = 4;
+grav = 0.5;
+jump_force = -9;
 
-/// =======================
-/// DEATH
-/// =======================
-spawn_x = x;
-spawn_y = y;
-dead = false;
-respawn_time = 90;
-respawn_timer = 0;
+// Jump & Sprint
+jumps_max = 3;
+jumps_current = 0;
+dash_speed_multiplier = 1;
+dash_timer_left = 0;
+dash_timer_right = 0;
+dash_delay = 15;
 
-/// CAMERA
-cam = view_camera[0];
+// Respawn position
+start_x = x;
+start_y = y;
