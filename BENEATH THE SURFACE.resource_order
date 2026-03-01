@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings":[
+    {"name":"AUDIOS","order":3,"path":"folders/AUDIOS.yy",},
+    {"name":"ROOMS","order":2,"path":"folders/ROOMS.yy",},
+    {"name":"SPRITES","order":1,"path":"folders/SPRITES.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"level_1","order":1,"path":"objects/level_1/level_1.yy",},
+    {"name":"obj_block","order":2,"path":"objects/obj_block/obj_block.yy",},
+    {"name":"obj_dash_trail","order":7,"path":"objects/obj_dash_trail/obj_dash_trail.yy",},
+    {"name":"obj_intro_controller","order":1,"path":"objects/obj_intro_controller/obj_intro_controller.yy",},
+    {"name":"obj_nxt_room","order":4,"path":"objects/obj_nxt_room/obj_nxt_room.yy",},
+    {"name":"obj_player","order":6,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_spikes","order":3,"path":"objects/obj_spikes/obj_spikes.yy",},
+    {"name":"Object7","order":5,"path":"objects/Object7/Object7.yy",},
+    {"name":"beneath_surface","order":2,"path":"rooms/beneath_surface/beneath_surface.yy",},
+    {"name":"snd_bg","order":1,"path":"sounds/snd_bg/snd_bg.yy",},
+    {"name":"spr_bg","order":7,"path":"sprites/spr_bg/spr_bg.yy",},
+    {"name":"spr_block","order":1,"path":"sprites/spr_block/spr_block.yy",},
+    {"name":"spr_nxt_room","order":2,"path":"sprites/spr_nxt_room/spr_nxt_room.yy",},
+    {"name":"spr_player","order":5,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_spikes","order":4,"path":"sprites/spr_spikes/spr_spikes.yy",},
+    {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
+  ],
+}
