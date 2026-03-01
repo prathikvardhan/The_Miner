@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_bg",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":2,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":30.171429,
+  "exportDir":"",
+  "name":"snd_bg",
+  "parent":{
+    "name":"AUDIOS",
+    "path":"folders/AUDIOS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_bg.mp3",
+  "volume":1.0,
+}
